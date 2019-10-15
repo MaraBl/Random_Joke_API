@@ -1,2 +1,1 @@
-https://marabl.github.io/Joke_random/
-# Joke_random
+https://marabl.github.io/Random_Joke_API/
